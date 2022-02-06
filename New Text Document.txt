@@ -1,0 +1,2 @@
+This is git practice to know how to use git
+
